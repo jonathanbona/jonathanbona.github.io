@@ -1,0 +1,29 @@
+.image{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%; /*don't forget prefixes*/
+  background-image: url("path/to/image");
+  background-position: center center;
+  /* as mentioned by Vad: */
+  background-size: cover;
+  display: inline;
+  float: left;
+}
+.info{
+  width: 600px;
+  height: 200px;
+  margin-left: 240px;
+
+}
+.social{
+    margin-top: 50px;
+    width: 200px;
+    
+}
+.publications{
+    list-style-type: none;
+
+}
+.publications li{
+    margin: 10px 0;
+}
