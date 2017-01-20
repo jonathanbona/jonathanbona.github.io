@@ -1,3 +1,7 @@
+body{
+    font-family: Verdana, Geneva, sans-serif;
+}
+
 .image{
   width: 200px;
   height: 200px;
@@ -13,23 +17,34 @@
   width: 600px;
   height: 200px;
   margin-left: 240px;
+  font-family: Verdana, Geneva, sans-serif;
+
 
 }
 .social{
     margin-top: 50px;
     width: 200px;
-    
+    font-family: Verdana, Geneva, sans-serif;
+
 }
 .publications{
-    margin-top: 50px;
-    margin-right: 8%;
+    border-radius: 10px;
+    background: #f2f9ff;
+    padding-top: 10px;
+    padding-bottom: 10px;    
+    margin-right: 5%;
     margin-left: 5%;
     list-style-type: none;
     text-align: justify;
     text-justify: inter-word;
+    font-family: Verdana, Geneva, sans-serif;
+
 
 }
 .publications li{
-    margin: 10px 0;
+/*    background: white; */
+    margin: 15px 0;
     margin-left: 3%;
+    margin-right: 3%;
 }
+
