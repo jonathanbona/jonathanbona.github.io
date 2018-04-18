@@ -30,7 +30,7 @@ body{
 }
 .publications{
     border-radius: 5px;
-    border-style: groove;
+    border-style: solid;
     background: #f2f9ff; 
     padding-top: 10px;
     padding-bottom: 10px;
