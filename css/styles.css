@@ -5,7 +5,7 @@ body{
 .image{
   width: 200px;
   height: 200px;
-  border-radius: 50%; /*don't forget prefixes*/
+  border-radius: 50%;
   background-image: url("path/to/image");
   background-position: center center;
   /* as mentioned by Vad: */
@@ -29,10 +29,12 @@ body{
 
 }
 .publications{
-    border-radius: 10px;
-    background: #f2f9ff;
+    border-radius: 5px;
+    border-style: groove;
+    background: #f2f9ff; 
     padding-top: 10px;
-    padding-bottom: 10px;    
+    padding-bottom: 10px;
+    padding-left: 10px;
     margin-right: 5%;
     margin-left: 5%;
     list-style-type: none;
