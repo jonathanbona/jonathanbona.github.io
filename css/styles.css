@@ -5,6 +5,8 @@ body{
 .image{
   width: 200px;
   height: 200px;
+  margin-left: 40px;
+  margin-top: 40px;  
   border-radius: 50%;
   background-image: url("path/to/image");
   background-position: center center;
@@ -17,7 +19,7 @@ body{
 .info{
     width: 600px;
 /*  height: 200px;*/
-  margin-left: 240px;
+  margin-left: 280px;
   font-family: Verdana, Geneva, sans-serif;
   font-size: 1.2em;
 
@@ -35,8 +37,9 @@ body{
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-right: 40px;
+    margin-left: 40px;
+    max-width: 1000px;
     list-style-type: none;
     text-align: justify;
     text-justify: inter-word;
