@@ -5,8 +5,8 @@ body{
 .image{
   width: 200px;
   height: 200px;
-  margin-left: 40px;
-  margin-top: 40px;  
+  margin-left: 20px;
+  margin-top: 20px;  
   border-radius: 50%;
   background-image: url("path/to/image");
   background-position: center center;
