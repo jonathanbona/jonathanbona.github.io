@@ -39,6 +39,20 @@ footer {
     font-family: Verdana, Geneva, sans-serif;
 
 }
+
+.about{
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+    max-width: 1000px;
+    list-style-type: none;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: Verdana, Geneva, sans-serif;
+}
 .publications{
     border-radius: 5px;
     border-style: groove;
