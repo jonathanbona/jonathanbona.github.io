@@ -41,7 +41,8 @@ footer {
 }
 
 .about{
-
+    background: #f2f9ff;
+    border-radius: 5px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
@@ -55,7 +56,7 @@ footer {
 }
 .publications{
     border-radius: 5px;
-    border-style: groove;
+/*    border-style: groove; */
     background: #f2f9ff; 
     padding-top: 10px;
     padding-bottom: 10px;
